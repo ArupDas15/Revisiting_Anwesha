@@ -28,8 +28,8 @@ To be updated soon.
 |   | Name		      																												| Contact                                                 			|	LinkedIn/ Website
 |---|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------|
 | 1 | Arup Das, <sub>([AIDB](http://www.cse.iitm.ac.in/lab_details.php?arg=MQ==), [IITM](https://www.iitm.ac.in))</sub>        		| [cs20s016@smail.iitm.ac.in](mailto:cs20s016@smail.iitm.ac.in)     | https://www.linkedin.com/in/arup-das-90033a153/		   |
-| 2 | Bibekananda Kundu, <sub>([CDAC](https://www.cdac.in/))</sub>															        | [bibekananda.kundu@gmail.com](mailto:bibekananda.kundu@gmail.com) | https://www.linkedin.com/in/bibekananda-kundu-51205434/  |
-| 3 | Joyojyoti Acharya, <sub>([AIDB](http://www.cse.iitm.ac.in/lab_details.php?arg=MQ==), [IITM](https://www.iitm.ac.in))</sub> 		| [cs21m024@smail.iitm.ac.in](mailto:cs21m024@smail.iitm.ac.in)     | https://www.linkedin.com/in/joy-iitm/    |
+| 2 | Joyojyoti Acharya, <sub>([AIDB](http://www.cse.iitm.ac.in/lab_details.php?arg=MQ==), [IITM](https://www.iitm.ac.in))</sub> 		| [cs21m024@smail.iitm.ac.in](mailto:cs21m024@smail.iitm.ac.in)     | https://www.linkedin.com/in/joy-iitm/    |
+| 3 | Bibekananda Kundu, <sub>([CDAC](https://www.cdac.in/))</sub>															        | [bibekananda.kundu@gmail.com](mailto:bibekananda.kundu@gmail.com) | https://www.linkedin.com/in/bibekananda-kundu-51205434/  |
 | 4 | Sutanu Chakraborti, <sub>([AIDB](http://www.cse.iitm.ac.in/lab_details.php?arg=MQ==), [IITM](https://www.iitm.ac.in))</sub>  	| [sutanuc@cse.iitm.ac.in](mailto:sutanuc@cse.iitm.ac.in)			| http://www.cse.iitm.ac.in/~sutanuc/             		   |
 
 ### Acknowledgement
