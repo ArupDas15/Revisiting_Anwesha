@@ -1,6 +1,6 @@
 <div align="center">
 	<h1><b><i>Revisiting Anwesha: Enhancing Personalised and Natural Search in Bangla</i></b></h1>
-	<a href="https://lcs2.in/ICON-2022/index.html">Paper</a> |
+	<a href="https://aclanthology.org/2022.icon-main.24.pdf">Paper</a> |
 	<a href="https://zenodo.org/record/7376906">Dataset</a>
 </div>
 
@@ -15,11 +15,22 @@ In this work, we have addressed the existing limitations of Anwesha. To know mor
 ## Citing
 
 If you are using any of the resources, please cite the following paper:
-<!---
-Comment: Bibtex citation to be updated.
--->
 ```
-To be updated soon.
+@inproceedings{das-etal-2022-revisiting,
+    title = "Revisiting Anwesha:Enhancing Personalised and Natural Search in {B}angla",
+    author = "Das, Arup  and
+      Acharya, Joyojyoti  and
+      Kundu, Bibekananda  and
+      Chakraborti, Sutanu",
+    booktitle = "Proceedings of the 19th International Conference on Natural Language Processing (ICON)",
+    month = dec,
+    year = "2022",
+    address = "New Delhi, India",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.icon-main.24",
+    pages = "183--193",
+    abstract = "Bangla is a low-resource, highly agglutinative language. Thus it is challenging to facilitate an effective search of Bangla documents. We have created a gold standard dataset containing query document relevance pairs for evaluation purposes. We utilise Named Entities to improve the retrieval effectiveness of traditional Bangla search algorithms. We suggest a reasonable starting model for leveraging implicit preference feedback based on the user search behaviour to enhance the results retrieved by the Explicit Semantic Analysis (ESA) approach. We use contextual sentence embeddings obtained via Language-agnostic BERT Sentence Embedding (LaBSE) to rerank the candidate documents retrieved by the traditional search algorithms (tf-idf) based on the top sentences that are most relevant to the query. This paper presents our empirical findings across these directions and critically analyses the results.",
+}
 ```
 
 
