@@ -10,7 +10,7 @@ Anwesha is a semantic search tool over Bangla documents.
 
 To know more about Anwesha, in its current form kindly visit <a href="https://github.com/ArupDas15/Anwesha">here</a>.
 
-In this work, we have addressed the existing limitations of Anwesha. To know more about our work kindly refer to the paper <a href="https://github.com/ArupDas15/Revisiting_Anwesha/edit/main/README.md#citing">below</a>.
+In this work, we have addressed the existing limitations of Anwesha. To know more about our work kindly refer to the paper <a href="https://aclanthology.org/2022.icon-main.24.pdf">below</a>.
 
 ## Citing
 
