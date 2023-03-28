@@ -44,7 +44,7 @@ If you are using any of the resources, please cite the following paper:
 | 4 | Sutanu Chakraborti, <sub>([AIDB](http://www.cse.iitm.ac.in/lab_details.php?arg=MQ==), [IITM](https://www.iitm.ac.in))</sub>  	| [sutanuc@cse.iitm.ac.in](mailto:sutanuc@cse.iitm.ac.in)			| http://www.cse.iitm.ac.in/~sutanuc/             		   |
 
 ### Acknowledgement
-We acknowledge the below Alumni's of [AIDB Laboratory](http://www.cse.iitm.ac.in/lab_details.php?arg=MQ==), [IITM](https://www.iitm.ac.in)</sub> for their invaluable contributions in the initial development stages of Anwesha.
+We acknowledge the below Alumni's of [AIDB Laboratory](http://www.cse.iitm.ac.in/lab_details.php?arg=MQ==), [IIT Madras](https://www.iitm.ac.in)</sub> for their invaluable contributions in the initial development stages of Anwesha.
 
 |   | Name		      																												| Contact                                                 			|	LinkedIn/ Website
 |---|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------|
