@@ -1,0 +1,39 @@
+###############################################################################
+# Absolute Path to Dataset
+
+dataset_path = 'C:\Users\joyoj\OneDrive\Desktop\Desktop Files and Folders\new_MTP\Complete_Test_Collection_without_RBR\Train_Dataset\14_travel'
+
+# Absolute Path to External Dataset
+
+concept_dataset_path = 'C:\Users\joyoj\OneDrive\Desktop\Desktop Files and Folders\new_MTP\command_line_prototype\Concept_database'
+
+################################################################################
+# Configuration for tf-idf module
+# Indicate 'True' or 'False' if you wish to create a tf-idf index.
+tfidf_flag = True
+
+################################################################################
+# Configuration for LSA module
+# Indicate 'True' or 'False' if you wish to create a lsa index.
+lsa_flag = True
+
+# Latent dimension of the reduced space
+latent_dimension = 500
+
+################################################################################
+# Configuration for ESA module
+# Indicate 'True' or 'False' if you wish to create an esa index.
+esa_flag = True
+
+################################################################################
+# Configuration for FAISS module
+
+# Indicate 'True' or 'False' if you wish to create a FAISS tfidf index.
+faiss_tfidf_flag = True
+
+# Indicate 'True' or 'False' if you wish to create a FAISS lsa index.
+faiss_lsa_flag = True
+
+# Indicate 'True' or 'False' if you wish to create a FAISS esa index.
+faiss_esa_flag = True
+################################################################################
